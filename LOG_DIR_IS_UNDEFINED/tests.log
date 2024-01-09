@@ -1,0 +1,8 @@
+1070 [main] INFO  BookingServiceTest - positiveCreateBookTest started
+1075 [main] DEBUG BookingServiceTest - Creating mock
+1109 [main] DEBUG BookingServiceTest - Running test
+1123 [main] INFO  BookingServiceTest - positiveCreateBookTest passed
+1146 [main] INFO  BookingServiceTest - negativeCreateBookTest started
+1146 [main] DEBUG BookingServiceTest - Creating mock
+1159 [main] DEBUG BookingServiceTest - Running test
+1160 [main] INFO  BookingServiceTest - negativeCreateBookTest passed
